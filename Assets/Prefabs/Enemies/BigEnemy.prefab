@@ -98,4 +98,4 @@ MonoBehaviour:
   health: 8
   fireRate: 2
   coolDownTime: 1
-  prefabProjectile: {fileID: -6103297151721944162, guid: 0cd7ec629fd1a4192923ca8d48b04020, type: 3}
+  prefabProjectile: {fileID: 8561529489098270224, guid: fee2f61340c924467aa82b68076864cc, type: 3}
